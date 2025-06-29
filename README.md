@@ -1,1 +1,1 @@
-# laps
+# Local Artisan Promotion System (LAPS)
